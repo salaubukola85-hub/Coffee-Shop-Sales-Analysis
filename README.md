@@ -1,7 +1,11 @@
 #  Coffee Shop Sales Analysis Dashboard
 
-A complete Excel-based data analysis project using a coffee shop sales dataset.  
-This project demonstrates skills in **data cleaning**, **Excel formulas**, **Pivot Tables**, and **interactive dashboard creation**.
+A complete Excel-based data analysis project using a coffee shop sales dataset(USA).  
+<img width="2755" height="2025" alt="Coffee Sales Dashboard" src="https://github.com/user-attachments/assets/c4816f03-6a59-46e6-ad0c-b24816794775" />
+
+#  Project Overview
+
+This project analyzes coffee shop sales across three New York City locations using Microsoft Excel. It includes **data cleaning**, **pivot table analysis**, and  **interactive dashboard** creation to identify patterns in sales.
 
 ---
 
@@ -55,20 +59,14 @@ The dashboard is interactive using **slicers** for filtering.
 
 ##  Key Insights
 
-- The **peak hour** is 10 AM (highest transaction activity)
-- Morning hours (7 AM – 11 AM) recorded the highest sales, showing strong customer traffic during peak coffee time.
-- Sales vary significantly by time of day
-- Low/Medium/High sales categories provide quick segmentation of total sales
-- Coffee were the top performing product category while Barrista Espresso were the top performing product type, contributing the largest share of total revenue.
-- Low-selling products and slow hours highlight opportunities for promotions, product adjustment, or targeted marketing.
-- Overall sales trends provide valuable insights for inventory planning, staffing decisions, and improving customer experience.
-
----
-
-##  Dashboard Screenshot
-
-![Coffee Shop Dashboard](Coffee Sales Dashboard.png)
-
+- Total revenue reached $698,812, showing strong overall performance across all three store locations.
+- 10 AM is the peak sales hour, confirming that most customers visit during the morning rush for coffee and tea.
+- Morning sales generated the highest revenue ($388,289) confirming the morning rush as the most profitable hour.
+- Among locations, Hell's kitchen recorded the highest sales ($236,511), followed by Astoria and Lower Manhattan, indicating better customer traffic and purchase activity.
+- Barista Espresso is the best-selling product, driving a significant share of total revenue compared to other drink types.
+- Coffee and Tea categories lead in performance, with Coffee showing the highest sales volume overall.
+- Monthly performance shows a steady increase from January to June, with June recording the highest sales.
+- Product types like Barista Espresso, Brewed Chai Tea, Hot Chocolate, and Gourmet Brewed Coffee also show strong contributions, indicating diverse customer preferences beyond regular coffee.
 ---
 
 ##  Purpose of the Project
